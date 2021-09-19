@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/theairblow/.dotnet/store/|arch|/|tfm|",
+      "/home/theairblow/.nuget/packages"
+    ]
+  }
+}

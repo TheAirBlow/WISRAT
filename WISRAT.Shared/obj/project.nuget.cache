@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIIPXPiTSSLeqP9OCyY7Rn4mMlj0ShZioHTD+4PoRrYf07vWsUt1KH5qAqQmF2//KSv7KDeUFXdPS24W+y5vwQ==",
+  "success": true,
+  "projectFilePath": "/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/WISRAT.Shared.csproj",
+  "expectedPackageFiles": [
+    "/home/theairblow/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

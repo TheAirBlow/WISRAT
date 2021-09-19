@@ -1,0 +1,12 @@
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/bin/Debug/net5.0/WISRAT.Shared.deps.json
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/bin/Debug/net5.0/WISRAT.Shared.dll
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/bin/Debug/net5.0/ref/WISRAT.Shared.dll
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/bin/Debug/net5.0/WISRAT.Shared.pdb
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/WISRAT.Shared.csprojAssemblyReference.cache
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/WISRAT.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/WISRAT.Shared.AssemblyInfoInputs.cache
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/WISRAT.Shared.AssemblyInfo.cs
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/WISRAT.Shared.csproj.CoreCompileInputs.cache
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/WISRAT.Shared.dll
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/ref/WISRAT.Shared.dll
+/home/theairblow/RiderProjects/WISRAT/WISRAT.Shared/obj/Debug/net5.0/WISRAT.Shared.pdb

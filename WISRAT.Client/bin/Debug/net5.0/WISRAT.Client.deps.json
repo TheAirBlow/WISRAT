@@ -1,0 +1,118 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WISRAT.Client/1.0.0": {
+        "dependencies": {
+          "Serilog": "2.10.0",
+          "Serilog.Exceptions": "7.0.0",
+          "Serilog.Sinks.Console": "4.0.0",
+          "Serilog.Sinks.File": "5.0.0",
+          "WISRAT.Shared": "1.0.0"
+        },
+        "runtime": {
+          "WISRAT.Client.dll": {}
+        }
+      },
+      "Serilog/2.10.0": {
+        "runtime": {
+          "lib/netstandard2.1/Serilog.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.10.0.0"
+          }
+        }
+      },
+      "Serilog.Exceptions/7.0.0": {
+        "dependencies": {
+          "Serilog": "2.10.0",
+          "System.Reflection.TypeExtensions": "4.7.0"
+        },
+        "runtime": {
+          "lib/net5.0/Serilog.Exceptions.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.Console/4.0.0": {
+        "dependencies": {
+          "Serilog": "2.10.0"
+        },
+        "runtime": {
+          "lib/net5.0/Serilog.Sinks.Console.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Serilog.Sinks.File/5.0.0": {
+        "dependencies": {
+          "Serilog": "2.10.0"
+        },
+        "runtime": {
+          "lib/net5.0/Serilog.Sinks.File.dll": {
+            "assemblyVersion": "5.0.0.0",
+            "fileVersion": "5.0.0.0"
+          }
+        }
+      },
+      "System.Reflection.TypeExtensions/4.7.0": {},
+      "WISRAT.Shared/1.0.0": {
+        "runtime": {
+          "WISRAT.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WISRAT.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Serilog/2.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+QX0hmf37a0/OZLxM3wL7V6/ADvC1XihXN4Kq/p6d8lCPfgkRdiuhbWlMaFjR9Av0dy5F0+MBeDmDdRZN/YwQA==",
+      "path": "serilog/2.10.0",
+      "hashPath": "serilog.2.10.0.nupkg.sha512"
+    },
+    "Serilog.Exceptions/7.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QR8qm4RKMaxbgg1uyKvaikAUyDfl68OtmcDSz1A5Sfc6wkoex4rnQYBkGpzjPfqNaujHAIhIxp6gd9meQirY7A==",
+      "path": "serilog.exceptions/7.0.0",
+      "hashPath": "serilog.exceptions.7.0.0.nupkg.sha512"
+    },
+    "Serilog.Sinks.Console/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yJQit9sTJ4xGLKgCujqDJsaGqBNJwGB/H898z+xYlMG06twy4//6LLnSrsmpduZxcHIG4im7cv+JmXLzXz2EkQ==",
+      "path": "serilog.sinks.console/4.0.0",
+      "hashPath": "serilog.sinks.console.4.0.0.nupkg.sha512"
+    },
+    "Serilog.Sinks.File/5.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uwV5hdhWPwUH1szhO8PJpFiahqXmzPzJT/sOijH/kFgUx+cyoDTMM8MHD0adw9+Iem6itoibbUXHYslzXsLEAg==",
+      "path": "serilog.sinks.file/5.0.0",
+      "hashPath": "serilog.sinks.file.5.0.0.nupkg.sha512"
+    },
+    "System.Reflection.TypeExtensions/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VybpaOQQhqE6siHppMktjfGBw1GCwvCqiufqmP8F1nj7fTUNtW35LOEt3UZTEsECfo+ELAl/9o9nJx3U91i7vA==",
+      "path": "system.reflection.typeextensions/4.7.0",
+      "hashPath": "system.reflection.typeextensions.4.7.0.nupkg.sha512"
+    },
+    "WISRAT.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

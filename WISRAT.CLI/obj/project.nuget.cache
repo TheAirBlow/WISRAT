@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+pRF7C6aUhtpK67iFGY+ByJsr4C4cqOfB5IlhyBeB8+sTQ1TpGwwyDvbhSOVlrA6Eo81hqmvwmIjBoBMQbr0Q==",
+  "success": true,
+  "projectFilePath": "/home/theairblow/RiderProjects/WISRAT/WISRAT.CLI/WISRAT.CLI.csproj",
+  "expectedPackageFiles": [
+    "/home/theairblow/.nuget/packages/serilog/2.10.0/serilog.2.10.0.nupkg.sha512",
+    "/home/theairblow/.nuget/packages/serilog.exceptions/7.0.0/serilog.exceptions.7.0.0.nupkg.sha512",
+    "/home/theairblow/.nuget/packages/serilog.sinks.console/4.0.0/serilog.sinks.console.4.0.0.nupkg.sha512",
+    "/home/theairblow/.nuget/packages/system.reflection.typeextensions/4.7.0/system.reflection.typeextensions.4.7.0.nupkg.sha512",
+    "/home/theairblow/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
